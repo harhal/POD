@@ -1,0 +1,2 @@
+C:\Users\vadzim.kharkhaliou\Documents\Unreal Projects\PointOfDivarication\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RD\Definitions.h
+C:\Users\vadzim.kharkhaliou\Documents\Unreal Projects\PointOfDivarication\Plugins\Developer\RiderLink\Source\RD\src\rd_gen_cpp\src\RdTextBuffer.h

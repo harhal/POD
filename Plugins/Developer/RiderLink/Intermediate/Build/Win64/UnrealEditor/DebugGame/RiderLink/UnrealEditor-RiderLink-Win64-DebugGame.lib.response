@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderLink-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\vadzim.kharkhaliou\Documents\Unreal Projects\PointOfDivarication\Intermediate\Build\Win64\PointOfDivaricationEditor\DebugGame\Core\SharedPCH.Core.NonOptimized.RTTI.ShadowErrors.h.obj"
+"C:\Users\vadzim.kharkhaliou\Documents\Unreal Projects\PointOfDivarication\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLink\Module.RiderLink.cpp.obj"
+"C:\Users\vadzim.kharkhaliou\Documents\Unreal Projects\PointOfDivarication\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLink\Default.rc2.res"
+/OUT:"C:\Users\vadzim.kharkhaliou\Documents\Unreal Projects\PointOfDivarication\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderLink\UnrealEditor-RiderLink-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_RiderLink
